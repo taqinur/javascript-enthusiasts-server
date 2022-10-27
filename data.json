@@ -1,0 +1,13 @@
+[
+    {"id":1,"title":"Vanilla Javascript","price":500,"description":"In this course, you will learn about basic JavaScript, ES6, regular expressions, basic data structures, Object Oriented Programming, and functional programming.","category":"basic","image":"https://static.javatpoint.com/images/javascript/javascript_logo.png"},
+
+    {"id":2,"title":"React JS","price":1000,"description":"In this course, you will learn the React way to build rich interactive UIs using both class and function components with React Hooks, and build a game for kids with it.","category":"advanced","image":"https://www.mindinventory.com/blog/wp-content/uploads/2018/07/reactjs-1200x600.jpg"},
+
+    {"id":3,"title":"Vue JS","price":1000,"description":"In this course, you will learn Vue from scratch (including all new Vue 3 features), build your own professional Vue.js apps.","category":"advanced","image":"https://o.dlf.pt/dfpng/smallpng/313-3133788_vue-js-logo-png-transparent-png.png"},
+
+    {"id":4,"title":"Angular JS","price":1500,"description":"In this course, you will learn about Angular core concepts, then discover best practices for setting up Angular apps with its CLI, and finally, begin to explore Angular features like forms.","image":"https://www.goodworklabs.com/wp-content/uploads/2017/05/9a_Angular-JS-development.jpg"},
+
+    {"id":5,"title":"Node JS","price":2000,"description":"In this course, you will learn to build network applications quickly and efficiently using JavaScript. The Node JS  course is designed to help developers understand and build web applications with the help of JavaScript.", "category":"advanced","image":"https://cdn-images-1.medium.com/max/2400/1%2AFPtQLT2Zk-baHficCz_mXQ.png"},
+
+    {"id":6,"title":"Next JS","price":2000,"description":"Next.js gives you the best developer experience with all the features you need for production: hybrid static & server rendering, TypeScript support, smart bundling, route pre-fetching, and more. No config is needed.","category":"advanced","image":"https://mobisoftinfotech.com/resources/wp-content/uploads/2022/04/next-JS-framework.png"}
+]
